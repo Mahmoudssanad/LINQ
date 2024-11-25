@@ -1,0 +1,21 @@
+D:\Back-end\LINQ\Implicitly Typed Local Variables-var\Implicitly Typed Local Variables-var\bin\Debug\net7.0\Seed Data.deps.json
+D:\Back-end\LINQ\Implicitly Typed Local Variables-var\Implicitly Typed Local Variables-var\bin\Debug\net7.0\Seed Data.runtimeconfig.json
+D:\Back-end\LINQ\Implicitly Typed Local Variables-var\Implicitly Typed Local Variables-var\bin\Debug\net7.0\Seed Data.exe
+D:\Back-end\LINQ\Implicitly Typed Local Variables-var\Implicitly Typed Local Variables-var\bin\Debug\net7.0\Implicitly Typed Local Variables-var.exe
+D:\Back-end\LINQ\Implicitly Typed Local Variables-var\Implicitly Typed Local Variables-var\bin\Debug\net7.0\Implicitly Typed Local Variables-var.deps.json
+D:\Back-end\LINQ\Implicitly Typed Local Variables-var\Implicitly Typed Local Variables-var\bin\Debug\net7.0\Implicitly Typed Local Variables-var.runtimeconfig.json
+D:\Back-end\LINQ\Implicitly Typed Local Variables-var\Implicitly Typed Local Variables-var\bin\Debug\net7.0\Implicitly Typed Local Variables-var.dll
+D:\Back-end\LINQ\Implicitly Typed Local Variables-var\Implicitly Typed Local Variables-var\bin\Debug\net7.0\Implicitly Typed Local Variables-var.pdb
+D:\Back-end\LINQ\Implicitly Typed Local Variables-var\Implicitly Typed Local Variables-var\bin\Debug\net7.0\Seed Data.dll
+D:\Back-end\LINQ\Implicitly Typed Local Variables-var\Implicitly Typed Local Variables-var\bin\Debug\net7.0\Seed Data.pdb
+D:\Back-end\LINQ\Implicitly Typed Local Variables-var\Implicitly Typed Local Variables-var\obj\Debug\net7.0\Implicitly Typed Local Variables-var.csproj.AssemblyReference.cache
+D:\Back-end\LINQ\Implicitly Typed Local Variables-var\Implicitly Typed Local Variables-var\obj\Debug\net7.0\Implicitly Typed Local Variables-var.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-end\LINQ\Implicitly Typed Local Variables-var\Implicitly Typed Local Variables-var\obj\Debug\net7.0\Implicitly Typed Local Variables-var.AssemblyInfoInputs.cache
+D:\Back-end\LINQ\Implicitly Typed Local Variables-var\Implicitly Typed Local Variables-var\obj\Debug\net7.0\Implicitly Typed Local Variables-var.AssemblyInfo.cs
+D:\Back-end\LINQ\Implicitly Typed Local Variables-var\Implicitly Typed Local Variables-var\obj\Debug\net7.0\Implicitly Typed Local Variables-var.csproj.CoreCompileInputs.cache
+D:\Back-end\LINQ\Implicitly Typed Local Variables-var\Implicitly Typed Local Variables-var\obj\Debug\net7.0\Implicitly Typed Local Variables-var.csproj.CopyComplete
+D:\Back-end\LINQ\Implicitly Typed Local Variables-var\Implicitly Typed Local Variables-var\obj\Debug\net7.0\Implicitly Typed Local Variables-var.dll
+D:\Back-end\LINQ\Implicitly Typed Local Variables-var\Implicitly Typed Local Variables-var\obj\Debug\net7.0\refint\Implicitly Typed Local Variables-var.dll
+D:\Back-end\LINQ\Implicitly Typed Local Variables-var\Implicitly Typed Local Variables-var\obj\Debug\net7.0\Implicitly Typed Local Variables-var.pdb
+D:\Back-end\LINQ\Implicitly Typed Local Variables-var\Implicitly Typed Local Variables-var\obj\Debug\net7.0\Implicitly Typed Local Variables-var.genruntimeconfig.cache
+D:\Back-end\LINQ\Implicitly Typed Local Variables-var\Implicitly Typed Local Variables-var\obj\Debug\net7.0\ref\Implicitly Typed Local Variables-var.dll

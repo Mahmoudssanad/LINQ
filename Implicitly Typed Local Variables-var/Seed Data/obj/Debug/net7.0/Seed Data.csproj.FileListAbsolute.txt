@@ -1,0 +1,14 @@
+D:\Back-end\LINQ\Implicitly Typed Local Variables-var\Seed Data\bin\Debug\net7.0\Seed Data.exe
+D:\Back-end\LINQ\Implicitly Typed Local Variables-var\Seed Data\bin\Debug\net7.0\Seed Data.deps.json
+D:\Back-end\LINQ\Implicitly Typed Local Variables-var\Seed Data\bin\Debug\net7.0\Seed Data.runtimeconfig.json
+D:\Back-end\LINQ\Implicitly Typed Local Variables-var\Seed Data\bin\Debug\net7.0\Seed Data.dll
+D:\Back-end\LINQ\Implicitly Typed Local Variables-var\Seed Data\bin\Debug\net7.0\Seed Data.pdb
+D:\Back-end\LINQ\Implicitly Typed Local Variables-var\Seed Data\obj\Debug\net7.0\Seed Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-end\LINQ\Implicitly Typed Local Variables-var\Seed Data\obj\Debug\net7.0\Seed Data.AssemblyInfoInputs.cache
+D:\Back-end\LINQ\Implicitly Typed Local Variables-var\Seed Data\obj\Debug\net7.0\Seed Data.AssemblyInfo.cs
+D:\Back-end\LINQ\Implicitly Typed Local Variables-var\Seed Data\obj\Debug\net7.0\Seed Data.csproj.CoreCompileInputs.cache
+D:\Back-end\LINQ\Implicitly Typed Local Variables-var\Seed Data\obj\Debug\net7.0\Seed Data.dll
+D:\Back-end\LINQ\Implicitly Typed Local Variables-var\Seed Data\obj\Debug\net7.0\refint\Seed Data.dll
+D:\Back-end\LINQ\Implicitly Typed Local Variables-var\Seed Data\obj\Debug\net7.0\Seed Data.pdb
+D:\Back-end\LINQ\Implicitly Typed Local Variables-var\Seed Data\obj\Debug\net7.0\Seed Data.genruntimeconfig.cache
+D:\Back-end\LINQ\Implicitly Typed Local Variables-var\Seed Data\obj\Debug\net7.0\ref\Seed Data.dll

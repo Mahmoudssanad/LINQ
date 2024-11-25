@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Implicitly Typed Local Variables-var/1.0.0": {
+        "runtime": {
+          "Implicitly Typed Local Variables-var.dll": {}
+        }
+      },
+      "Seed Data/1.0.0": {
+        "runtime": {
+          "Seed Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Implicitly Typed Local Variables-var/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Seed Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
