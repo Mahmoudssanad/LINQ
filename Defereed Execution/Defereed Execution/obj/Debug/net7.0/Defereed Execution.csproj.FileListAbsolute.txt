@@ -1,0 +1,21 @@
+D:\Back-end\LINQ\Defereed Execution\Defereed Execution\bin\Debug\net7.0\Project.deps.json
+D:\Back-end\LINQ\Defereed Execution\Defereed Execution\bin\Debug\net7.0\Project.runtimeconfig.json
+D:\Back-end\LINQ\Defereed Execution\Defereed Execution\bin\Debug\net7.0\Project.exe
+D:\Back-end\LINQ\Defereed Execution\Defereed Execution\bin\Debug\net7.0\Defereed Execution.exe
+D:\Back-end\LINQ\Defereed Execution\Defereed Execution\bin\Debug\net7.0\Defereed Execution.deps.json
+D:\Back-end\LINQ\Defereed Execution\Defereed Execution\bin\Debug\net7.0\Defereed Execution.runtimeconfig.json
+D:\Back-end\LINQ\Defereed Execution\Defereed Execution\bin\Debug\net7.0\Defereed Execution.dll
+D:\Back-end\LINQ\Defereed Execution\Defereed Execution\bin\Debug\net7.0\Defereed Execution.pdb
+D:\Back-end\LINQ\Defereed Execution\Defereed Execution\bin\Debug\net7.0\Project.dll
+D:\Back-end\LINQ\Defereed Execution\Defereed Execution\bin\Debug\net7.0\Project.pdb
+D:\Back-end\LINQ\Defereed Execution\Defereed Execution\obj\Debug\net7.0\Defereed Execution.csproj.AssemblyReference.cache
+D:\Back-end\LINQ\Defereed Execution\Defereed Execution\obj\Debug\net7.0\Defereed Execution.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-end\LINQ\Defereed Execution\Defereed Execution\obj\Debug\net7.0\Defereed Execution.AssemblyInfoInputs.cache
+D:\Back-end\LINQ\Defereed Execution\Defereed Execution\obj\Debug\net7.0\Defereed Execution.AssemblyInfo.cs
+D:\Back-end\LINQ\Defereed Execution\Defereed Execution\obj\Debug\net7.0\Defereed Execution.csproj.CoreCompileInputs.cache
+D:\Back-end\LINQ\Defereed Execution\Defereed Execution\obj\Debug\net7.0\Defereed Execution.csproj.CopyComplete
+D:\Back-end\LINQ\Defereed Execution\Defereed Execution\obj\Debug\net7.0\Defereed Execution.dll
+D:\Back-end\LINQ\Defereed Execution\Defereed Execution\obj\Debug\net7.0\refint\Defereed Execution.dll
+D:\Back-end\LINQ\Defereed Execution\Defereed Execution\obj\Debug\net7.0\Defereed Execution.pdb
+D:\Back-end\LINQ\Defereed Execution\Defereed Execution\obj\Debug\net7.0\Defereed Execution.genruntimeconfig.cache
+D:\Back-end\LINQ\Defereed Execution\Defereed Execution\obj\Debug\net7.0\ref\Defereed Execution.dll

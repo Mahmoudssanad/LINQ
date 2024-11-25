@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Defereed Execution/1.0.0": {
+        "dependencies": {
+          "Project": "1.0.0"
+        },
+        "runtime": {
+          "Defereed Execution.dll": {}
+        }
+      },
+      "Project/1.0.0": {
+        "runtime": {
+          "Project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Defereed Execution/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
