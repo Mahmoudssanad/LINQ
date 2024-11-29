@@ -1,0 +1,21 @@
+D:\Back-end\LINQ\LINQ_03\SelectMany Operator\bin\Debug\net7.0\SelectMany Operator.exe
+D:\Back-end\LINQ\LINQ_03\SelectMany Operator\bin\Debug\net7.0\SelectMany Operator.deps.json
+D:\Back-end\LINQ\LINQ_03\SelectMany Operator\bin\Debug\net7.0\SelectMany Operator.runtimeconfig.json
+D:\Back-end\LINQ\LINQ_03\SelectMany Operator\bin\Debug\net7.0\SelectMany Operator.dll
+D:\Back-end\LINQ\LINQ_03\SelectMany Operator\bin\Debug\net7.0\SelectMany Operator.pdb
+D:\Back-end\LINQ\LINQ_03\SelectMany Operator\obj\Debug\net7.0\SelectMany Operator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-end\LINQ\LINQ_03\SelectMany Operator\obj\Debug\net7.0\SelectMany Operator.AssemblyInfoInputs.cache
+D:\Back-end\LINQ\LINQ_03\SelectMany Operator\obj\Debug\net7.0\SelectMany Operator.AssemblyInfo.cs
+D:\Back-end\LINQ\LINQ_03\SelectMany Operator\obj\Debug\net7.0\SelectMany Operator.csproj.CoreCompileInputs.cache
+D:\Back-end\LINQ\LINQ_03\SelectMany Operator\obj\Debug\net7.0\SelectMany Operator.dll
+D:\Back-end\LINQ\LINQ_03\SelectMany Operator\obj\Debug\net7.0\refint\SelectMany Operator.dll
+D:\Back-end\LINQ\LINQ_03\SelectMany Operator\obj\Debug\net7.0\SelectMany Operator.pdb
+D:\Back-end\LINQ\LINQ_03\SelectMany Operator\obj\Debug\net7.0\SelectMany Operator.genruntimeconfig.cache
+D:\Back-end\LINQ\LINQ_03\SelectMany Operator\obj\Debug\net7.0\ref\SelectMany Operator.dll
+D:\Back-end\LINQ\LINQ_03\SelectMany Operator\bin\Debug\net7.0\Example.deps.json
+D:\Back-end\LINQ\LINQ_03\SelectMany Operator\bin\Debug\net7.0\Example.runtimeconfig.json
+D:\Back-end\LINQ\LINQ_03\SelectMany Operator\bin\Debug\net7.0\Example.exe
+D:\Back-end\LINQ\LINQ_03\SelectMany Operator\bin\Debug\net7.0\Example.dll
+D:\Back-end\LINQ\LINQ_03\SelectMany Operator\bin\Debug\net7.0\Example.pdb
+D:\Back-end\LINQ\LINQ_03\SelectMany Operator\obj\Debug\net7.0\SelectMany Operator.csproj.AssemblyReference.cache
+D:\Back-end\LINQ\LINQ_03\SelectMany Operator\obj\Debug\net7.0\SelectMany Operator.csproj.CopyComplete

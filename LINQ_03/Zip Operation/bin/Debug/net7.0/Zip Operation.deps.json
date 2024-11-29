@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Zip Operation/1.0.0": {
+        "dependencies": {
+          "Example": "1.0.0"
+        },
+        "runtime": {
+          "Zip Operation.dll": {}
+        }
+      },
+      "Example/1.0.0": {
+        "runtime": {
+          "Example.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zip Operation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Example/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

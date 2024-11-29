@@ -1,0 +1,14 @@
+D:\Back-end\LINQ\LINQ_03\Example\obj\Debug\net7.0\Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-end\LINQ\LINQ_03\Example\obj\Debug\net7.0\Example.AssemblyInfoInputs.cache
+D:\Back-end\LINQ\LINQ_03\Example\obj\Debug\net7.0\Example.AssemblyInfo.cs
+D:\Back-end\LINQ\LINQ_03\Example\obj\Debug\net7.0\Example.csproj.CoreCompileInputs.cache
+D:\Back-end\LINQ\LINQ_03\Example\bin\Debug\net7.0\Example.exe
+D:\Back-end\LINQ\LINQ_03\Example\bin\Debug\net7.0\Example.deps.json
+D:\Back-end\LINQ\LINQ_03\Example\bin\Debug\net7.0\Example.runtimeconfig.json
+D:\Back-end\LINQ\LINQ_03\Example\bin\Debug\net7.0\Example.dll
+D:\Back-end\LINQ\LINQ_03\Example\bin\Debug\net7.0\Example.pdb
+D:\Back-end\LINQ\LINQ_03\Example\obj\Debug\net7.0\Example.dll
+D:\Back-end\LINQ\LINQ_03\Example\obj\Debug\net7.0\refint\Example.dll
+D:\Back-end\LINQ\LINQ_03\Example\obj\Debug\net7.0\Example.pdb
+D:\Back-end\LINQ\LINQ_03\Example\obj\Debug\net7.0\Example.genruntimeconfig.cache
+D:\Back-end\LINQ\LINQ_03\Example\obj\Debug\net7.0\ref\Example.dll

@@ -1,0 +1,21 @@
+D:\Back-end\LINQ\LINQ_03\Select Operation\bin\Debug\net7.0\Example.deps.json
+D:\Back-end\LINQ\LINQ_03\Select Operation\bin\Debug\net7.0\Example.runtimeconfig.json
+D:\Back-end\LINQ\LINQ_03\Select Operation\bin\Debug\net7.0\Example.exe
+D:\Back-end\LINQ\LINQ_03\Select Operation\bin\Debug\net7.0\Select Operation.exe
+D:\Back-end\LINQ\LINQ_03\Select Operation\bin\Debug\net7.0\Select Operation.deps.json
+D:\Back-end\LINQ\LINQ_03\Select Operation\bin\Debug\net7.0\Select Operation.runtimeconfig.json
+D:\Back-end\LINQ\LINQ_03\Select Operation\bin\Debug\net7.0\Select Operation.dll
+D:\Back-end\LINQ\LINQ_03\Select Operation\bin\Debug\net7.0\Select Operation.pdb
+D:\Back-end\LINQ\LINQ_03\Select Operation\bin\Debug\net7.0\Example.dll
+D:\Back-end\LINQ\LINQ_03\Select Operation\bin\Debug\net7.0\Example.pdb
+D:\Back-end\LINQ\LINQ_03\Select Operation\obj\Debug\net7.0\Select Operation.csproj.AssemblyReference.cache
+D:\Back-end\LINQ\LINQ_03\Select Operation\obj\Debug\net7.0\Select Operation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-end\LINQ\LINQ_03\Select Operation\obj\Debug\net7.0\Select Operation.AssemblyInfoInputs.cache
+D:\Back-end\LINQ\LINQ_03\Select Operation\obj\Debug\net7.0\Select Operation.AssemblyInfo.cs
+D:\Back-end\LINQ\LINQ_03\Select Operation\obj\Debug\net7.0\Select Operation.csproj.CoreCompileInputs.cache
+D:\Back-end\LINQ\LINQ_03\Select Operation\obj\Debug\net7.0\Select Operation.csproj.CopyComplete
+D:\Back-end\LINQ\LINQ_03\Select Operation\obj\Debug\net7.0\Select Operation.dll
+D:\Back-end\LINQ\LINQ_03\Select Operation\obj\Debug\net7.0\refint\Select Operation.dll
+D:\Back-end\LINQ\LINQ_03\Select Operation\obj\Debug\net7.0\Select Operation.pdb
+D:\Back-end\LINQ\LINQ_03\Select Operation\obj\Debug\net7.0\Select Operation.genruntimeconfig.cache
+D:\Back-end\LINQ\LINQ_03\Select Operation\obj\Debug\net7.0\ref\Select Operation.dll

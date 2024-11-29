@@ -1,0 +1,21 @@
+D:\Back-end\LINQ\LINQ_03\Zip Operation\bin\Debug\net7.0\Example.deps.json
+D:\Back-end\LINQ\LINQ_03\Zip Operation\bin\Debug\net7.0\Example.runtimeconfig.json
+D:\Back-end\LINQ\LINQ_03\Zip Operation\bin\Debug\net7.0\Example.exe
+D:\Back-end\LINQ\LINQ_03\Zip Operation\bin\Debug\net7.0\Zip Operation.exe
+D:\Back-end\LINQ\LINQ_03\Zip Operation\bin\Debug\net7.0\Zip Operation.deps.json
+D:\Back-end\LINQ\LINQ_03\Zip Operation\bin\Debug\net7.0\Zip Operation.runtimeconfig.json
+D:\Back-end\LINQ\LINQ_03\Zip Operation\bin\Debug\net7.0\Zip Operation.dll
+D:\Back-end\LINQ\LINQ_03\Zip Operation\bin\Debug\net7.0\Zip Operation.pdb
+D:\Back-end\LINQ\LINQ_03\Zip Operation\bin\Debug\net7.0\Example.dll
+D:\Back-end\LINQ\LINQ_03\Zip Operation\bin\Debug\net7.0\Example.pdb
+D:\Back-end\LINQ\LINQ_03\Zip Operation\obj\Debug\net7.0\Zip Operation.csproj.AssemblyReference.cache
+D:\Back-end\LINQ\LINQ_03\Zip Operation\obj\Debug\net7.0\Zip Operation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-end\LINQ\LINQ_03\Zip Operation\obj\Debug\net7.0\Zip Operation.AssemblyInfoInputs.cache
+D:\Back-end\LINQ\LINQ_03\Zip Operation\obj\Debug\net7.0\Zip Operation.AssemblyInfo.cs
+D:\Back-end\LINQ\LINQ_03\Zip Operation\obj\Debug\net7.0\Zip Operation.csproj.CoreCompileInputs.cache
+D:\Back-end\LINQ\LINQ_03\Zip Operation\obj\Debug\net7.0\Zip Operation.csproj.CopyComplete
+D:\Back-end\LINQ\LINQ_03\Zip Operation\obj\Debug\net7.0\Zip Operation.dll
+D:\Back-end\LINQ\LINQ_03\Zip Operation\obj\Debug\net7.0\refint\Zip Operation.dll
+D:\Back-end\LINQ\LINQ_03\Zip Operation\obj\Debug\net7.0\Zip Operation.pdb
+D:\Back-end\LINQ\LINQ_03\Zip Operation\obj\Debug\net7.0\Zip Operation.genruntimeconfig.cache
+D:\Back-end\LINQ\LINQ_03\Zip Operation\obj\Debug\net7.0\ref\Zip Operation.dll
